@@ -39,6 +39,7 @@ rock-paper-scissors/ │ ├── rock_paper_scissors.py # Main game script ├
 4. Follow the instructions:
 - Enter r for Rock, p for Paper, or s for Scissors.
 - The computer's choice and the result will be displayed.
+---
 
 ## 📝 **Example Gameplay**
    ```rust
@@ -55,7 +56,7 @@ rock-paper-scissors/ │ ├── rock_paper_scissors.py # Main game script ├
 - **Expand the game** to include options like **Lizard** and **Spock**.
 - **Allow multiplayer mode.**
 
-  ---
+---
 
 ## 🤝 **Contributing**
 1. Fork the repository.
