@@ -18,8 +18,11 @@ This project is an excellent way to practice Python programming concepts like co
 ---
 
 ## 📂 **Project Structure**
-rock-paper-scissors/ │ ├── rock_paper_scissors.py # Main game script ├── README.md # Project documentation
-
+``` plaintext
+rock-paper-scissors/
+├── rock_paper_scissors.py # Main game script
+├── README.md # Project documentation
+```
 ---
 
 ## 🔧 **How to Run the Game**
